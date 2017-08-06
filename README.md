@@ -15,7 +15,6 @@
   * demo_sample.hg19_multianno.csv
   * demo_sample.hg19_multianno.txt
   * demo_sample.hg19_multianno.xlsx
-  *
 
 
 ### Download Annovar db
